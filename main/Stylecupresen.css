@@ -1,0 +1,10 @@
+.cuadropresentacion {
+    background-color: blue;
+    color: #f7f5f5;
+    padding: 0px;
+    text-align: center;
+    width: 200px;
+    height: 30px;
+    font-size: 12px;
+    border-radius: 10%;
+}
